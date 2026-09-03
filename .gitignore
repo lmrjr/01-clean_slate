@@ -1,0 +1,10 @@
+# regenerable
+.venv/
+__pycache__/
+*.pyc
+
+# 9am member data: excluded by choice
+data/
+
+# heavy archive, exceeds GitHub 100MB limit
+*.zip
